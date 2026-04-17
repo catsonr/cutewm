@@ -7,3 +7,4 @@ applied patches, in order:
   dwm-noborderselflickerfix-2022042627
   dwm-movestack-20211115
   dwm-pertag-20200914
+  dwm-cursorwarp-6.3
