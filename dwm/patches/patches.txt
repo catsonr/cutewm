@@ -6,3 +6,4 @@ applied patches, in order:
   dwm-attachbelow-toggleable-6.2
   dwm-noborderselflickerfix-2022042627
   dwm-movestack-20211115
+  dwm-pertag-20200914
