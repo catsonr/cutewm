@@ -1,0 +1,6 @@
+*.o
+dwm
+dwm.1
+config.h
+dwm.c.*
+config.def.h.*

@@ -1,0 +1,8 @@
+--- patches ---
+
+applied patches, in order: 
+  dwm-fullgaps-6.4
+  dwm-actualfullscreen-20211013
+  dwm-attachbelow-toggleable-6.2
+  dwm-noborderselflickerfix-2022042627
+  dwm-movestack-20211115
