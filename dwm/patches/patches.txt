@@ -8,3 +8,4 @@ applied patches, in order:
   dwm-movestack-20211115
   dwm-pertag-20200914
   dwm-cursorwarp-6.3
+  dwm-cool-autostart-6.2
